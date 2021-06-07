@@ -1,0 +1,26 @@
+{
+  "name": "@dvinfosys/react-native-step-indicator",
+  "version": "1.0.0",
+  "description": "React Native Step Indicator Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvinfosys/react-native-step-indicatior.git"
+  },
+  "keywords": [
+      "step-indicator",
+      "react-native",
+      "ios",
+      "android",
+      "react-component"
+    ],
+  "author": "dvinfosys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvinfosys/react-native-step-indicatior/issues"
+  },
+  "homepage": "https://github.com/dvinfosys/react-native-step-indicatior#readme"
+}
