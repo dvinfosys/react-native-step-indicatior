@@ -134,3 +134,7 @@ onPageChange(position){
 | ```labelSize``` | Number  | 13
 | ```labelAlign``` | String  | 'center'
 | ```labelFontFamily``` | String  |
+
+### License
+
+- [Apache-2.0](https://github.com/dvinfosys/react-native-step-indicatior/blob/main/LICENSE).  © DV Infosys
