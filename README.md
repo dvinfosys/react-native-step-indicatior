@@ -11,7 +11,7 @@ or
 
 ### Usage
 ```javascript
-import StepIndicator from 'react-native-step-indicator';
+import StepIndicator from '@dvinfosys/react-native-step-indicator';
 
 const labels = [
   {
